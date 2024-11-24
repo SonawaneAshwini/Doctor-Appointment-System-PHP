@@ -51,7 +51,7 @@ define('DB_NAME', 'doctor_appointment_system');
 
 ## How to run the Doctor Appointment Management System Project Using PHP and MySQL
 
-1. Download the zip file : [**`Download ZIP`**](https://github.com/shravandalavi/Doctor-Appointment-System-PHP/archive/refs/heads/main.zip).
+1. Download the zip file : [**`Download ZIP`**]("C:\Users\ashwi\Downloads\Doctor-Appointment-System_PHP-main.zip").
 
 2. Extract the file and copy dams folder
 
