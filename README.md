@@ -84,8 +84,6 @@ Or Register a new user.
   - GitHub: [Profile](https://github.com/ShravanDalavi)
     
 
-
-    
 **If you like this tutorial, please [give it a ⭐ star](https://github.com/SonawaneAshwini/Doctor-Appointment-System_PHP).**
 
 **Thank you for visiting my repository! I hope you find my projects interesting and useful. 😊**
